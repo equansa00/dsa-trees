@@ -1,4 +1,3 @@
-Sure, here is the content for your `README.md` file:
 
 ```markdown
 # Recursion Exercises
